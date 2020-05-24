@@ -8,15 +8,15 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Napisz tresc SMSa:");
-        Scanner scanner = new Scanner(System.in);
+        try (Scanner scanner = new Scanner(System.in)) {
+            String smsText = scanner.nextLine();
 
-        String smsText = scanner.nextLine();
-        //String shortSms = shortenSms(smsText);
-        String shortSms = shortenSmsWithStream(smsText);
+            //String shortSms = shortenSms(smsText);
+            String shortSms = shortenSmsWithStream(smsText);
 
-        System.out.println(shortSms);
-
-        System.out.println("Koszt to: " + (int) Math.ceil(shortSms.length() / 160.0));
+            System.out.println(shortSms);
+            System.out.println("Koszt to: " + (int) Math.ceil(shortSms.length() / 160.0));
+        }
     }
 
     static String shortenSmsWithStream(String smsText) {
