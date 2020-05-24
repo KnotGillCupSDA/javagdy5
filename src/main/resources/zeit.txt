@@ -1,0 +1,15 @@
+Sie haben hier immer noch kein WLAN, oder?
+
+Mehr Cafés mit offenen Hotspots bleiben wohl Wunschdenken: Zwar haften WLAN-Betreiber laut BGH nicht grundsätzlich. Doch wer Netz anbietet, hat es weiter unnötig schwer.
+
+Ein Kommentar von Lisa Hegemann
+
+Das Smartphone sucht und sucht, doch es findet selten etwas: Offene WLAN-Hotspots gibt es in Deutschland kaum, ins Internet kommt man unterwegs meist nur übers Mobilfunknetz. Während etwa in Großbritannien und Estland längst so gut wie jede Bushaltestelle und jedes Café mit freiem WLAN ausgestattet sind, muss man hierzulande schon irgendwo zentral wohnen, um ab und an mal auf ein Free Wi-Fi-Schild zu stoßen.
+
+Dass Geschäfte und öffentliche Einrichtungen lange kaum eigene Hotspots angeboten haben, lag vor allem an der Störerhaftung, die im deutschen Telemediengesetz festgeschrieben war: Wenn eine Person über das WLAN eines Restaurants etwa illegal Musik hochlud, konnte nicht nur sie, sondern auch der Gaststätteninhaber haftbar gemacht werden. Im schlimmsten Fall bedeutete das eine Abmahnung mit hohen Kosten. Das hielt viele Unternehmen davon ab, freies Internet anzubieten.
+
+Die Abschaffung der Störerhaftung sollte das Risiko für die Firmen minimieren: Die Anschlussinhaberinnen und -inhaber können seit der Veränderung des Telemediengesetzes 2017 nicht mehr zur Verantwortung gezogen werden, wenn jemand anderes die Urheberrechte eines Songs verletzt, indem er es im Netz verbreitet. Endlich sollte sich niemand mehr darüber Gedanken machen müssen, was andere möglicherweise über die eigene Internetverbindung anstellten. WLAN für alle, überall – das schien keine Utopie mehr.
+
+Der Bundesgerichtshof hat das neue Gesetz nun weitestgehend bestätigt. Hotspot-Betreiber müssen keine Unterlassungsklagen mehr fürchten, wenn eine andere Person über ihren WLAN-Zugang ein Recht verletzt. Das entschieden die Richterinnen und Richter am Donnerstag. So weit, so erfreulich.
+
+https://www.zeit.de/digital/internet/2018-07/bgh-urteil-offenes-wlan-stoerer-haftung-hotspots

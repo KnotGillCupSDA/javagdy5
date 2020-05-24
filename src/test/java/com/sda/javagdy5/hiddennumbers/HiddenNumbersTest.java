@@ -23,5 +23,8 @@ class HiddenNumbersTest {
 
         Assertions.assertEquals(44,
             hiddenNumbers.calculate("aa11b33-fsdf"));
+
+        Assertions.assertEquals(44,
+            hiddenNumbers.calculate("aa11b33-fsdf-"));
     }
 }
