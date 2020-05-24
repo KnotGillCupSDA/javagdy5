@@ -1,6 +1,8 @@
 package com.sda.javagdy5.smsshortener;
 
+import java.util.Arrays;
 import java.util.Scanner;
+import java.util.stream.Collectors;
 
 public class Main {
 
@@ -9,11 +11,22 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         String smsText = scanner.nextLine();
-        String shortSms = shortenSms(smsText);
+        //String shortSms = shortenSms(smsText);
+        String shortSms = shortenSmsWithStream(smsText);
 
         System.out.println(shortSms);
 
         System.out.println("Koszt to: " + (int) Math.ceil(shortSms.length() / 160.0));
+    }
+
+    static String shortenSmsWithStream(String smsText) {
+        if (smsText == null) {
+            throw new IllegalArgumentException("SMS cannot be null");
+        }
+
+        return Arrays.stream(smsText.split("\\s+"))
+            .map(s -> s.substring(0, 1).toUpperCase() + s.substring(1).toLowerCase())
+            .collect(Collectors.joining());
     }
 
     /**

@@ -9,18 +9,25 @@ class MainTest {
     void thatSmsCanBeShortened() {
         Assertions.assertEquals("DzisiajJestSobota,ImieninyKota",
             Main.shortenSms("Dzisiaj jest sobota, imieniny kota"));
+
+        Assertions.assertEquals("DzisiajJestSobota,ImieninyKota",
+            Main.shortenSmsWithStream("Dzisiaj jest sobota, imieniny kota"));
     }
 
     @Test
     void thatWeHandleDoubleSpaces() {
         Assertions.assertEquals("TestNaWieleSpacji",
             Main.shortenSms("test  na    wiele spacji"));
+        Assertions.assertEquals("TestNaWieleSpacji",
+            Main.shortenSmsWithStream("test  na    wiele spacji"));
     }
 
     @Test
     void thatWeHandleSpecialCharacters() {
         Assertions.assertEquals("CzyTo#$%JestOk?TestSpecjalnychZaków!",
             Main.shortenSms("Czy to #$% jest ok? test specjalnych zaków!"));
+        Assertions.assertEquals("CzyTo#$%JestOk?TestSpecjalnychZaków!",
+            Main.shortenSmsWithStream("Czy to #$% jest ok? test specjalnych zaków!"));
     }
 
     @Test
