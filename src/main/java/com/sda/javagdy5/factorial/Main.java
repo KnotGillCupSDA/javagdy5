@@ -13,7 +13,7 @@ public class Main {
         System.out.println("Czas dla podejścia itercyjnego: "+ Duration.between(start, Instant.now()));
 
         start = Instant.now();
-        factorial2.calculate(5432);
+        factorial2.calculate(5);
         System.out.println("Czas dla podejścia rekurencyjnego: "+ Duration.between(start, Instant.now()));
 
     }

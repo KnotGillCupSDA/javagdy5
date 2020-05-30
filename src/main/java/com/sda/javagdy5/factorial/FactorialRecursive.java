@@ -11,6 +11,7 @@ public class FactorialRecursive implements Factorial {
             return BigInteger.ONE;
         }
 
-        return BigInteger.valueOf(number).multiply(calculate(number-1));
+        BigInteger currentValue = BigInteger.valueOf(number);
+        return currentValue.multiply(calculate(number-1));
     }
 }
