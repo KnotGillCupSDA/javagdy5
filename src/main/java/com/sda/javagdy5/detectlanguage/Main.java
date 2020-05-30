@@ -13,6 +13,7 @@ public class Main {
         LanguageDetector languageDetector = new LanguageDetector();
 
         try {
+
             Files.list(Paths.get("src\\main\\resources"))
                 .forEach(path -> {
                     try {
