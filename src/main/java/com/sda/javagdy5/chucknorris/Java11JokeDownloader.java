@@ -13,8 +13,10 @@ import java.net.http.HttpResponse;
 public class Java11JokeDownloader implements JokeDownloader {
 
     private final HttpClient httpClient;
+    private final ObjectMapper objectMapper;
 
-    public Java11JokeDownloader() {
+    public Java11JokeDownloader(ObjectMapper objectMapper) {
+        this.objectMapper = objectMapper;
         httpClient = HttpClient.newHttpClient();
     }
 
@@ -30,9 +32,6 @@ public class Java11JokeDownloader implements JokeDownloader {
 
             HttpResponse<String> response = httpClient.send(request,
                 HttpResponse.BodyHandlers.ofString());
-
-            ObjectMapper objectMapper = new ObjectMapper();
-            objectMapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
 
             return objectMapper.readValue(response.body(), Joke.class);
 
