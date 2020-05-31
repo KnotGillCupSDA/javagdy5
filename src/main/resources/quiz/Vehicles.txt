@@ -1,0 +1,364 @@
+The Japanese Shinkansen beat the French TGV's speed record for fastest electric rail train.
+2
+False
+True
+Which Audi does not use Haldex based all wheel drive system?
+4
+Audi A8
+Audi TT
+Audi S3
+Audi A3
+Which of the following car manufacturers had a war named after it?
+4
+Toyota
+Honda
+Ford
+Volkswagen
+The LS7 engine is how many cubic inches?
+4
+427
+346
+364
+376
+Which car is the first mass-produced hybrid vehicle?
+4
+Toyota Prius
+Chevrolet Volt
+Honda Fit
+Peugeot 308 R HYbrid
+Arriva is owned by the Deutsche Bahn.
+2
+True
+False
+What model was the sports car gifted to Yuri Gagarin by the French government in 1965?
+4
+Matra Djet
+Porsche 911
+Alpine A110
+AC Cobra
+The difference between the lengths of a Boeing 777-300ER and an Airbus A350-1000 is closest to:
+4
+0.1m
+1m
+10m 
+100m
+Which animal features on the logo for Abarth, the motorsport division of Fiat?
+4
+Scorpion
+Snake
+Bull
+Horse
+Which of the following collision avoidance systems helps airplanes avoid colliding with each other?
+4
+TCAS
+GPWS
+OCAS
+TAWS
+What was the name of the first front-wheel-drive car produced by Datsun (now Nissan)?
+4
+Cherry
+Sunny
+Bluebird
+Skyline
+In 1993 Swedish car manufacturer Saab experimented with replacing the steering wheel with a joystick in a Saab 9000.
+2
+True
+False
+The LS1 engine is how many cubic inches?
+4
+346
+350
+355
+360
+Bugatti was an Italian car manufacturer.
+2
+False
+True
+What are the cylinder-like parts that pump up and down within the engine?
+4
+Pistons
+Leaf Springs
+Radiators
+ABS
+Which car tire manufacturer is famous for its "Eagle" brand of tires, and is the official tire supplier of NASCAR?
+4
+Goodyear
+Pirelli
+Bridgestone
+Michelin
+What engine is in the Lexus SC400?
+4
+1UZ-FE
+2JZ-GTE
+7M-GTE
+5M-GE
+Which car manufacturer created the "Aventador"?
+4
+Lamborghini
+Ferrari
+Pagani
+Bugatti
+Which one is NOT the function of engine oil in car engines?
+4
+Combustion
+Lubrication
+Cooling
+Reduce corrosion
+Which of these companies does NOT manufacture motorcycles?
+4
+Toyota
+Honda
+Kawasaki
+Yamaha
+The General Motors EV1 was the first street-legal production electric vehicle.
+2
+False
+True
+The LS3 engine is how many cubic inches?
+4
+376
+346
+364
+427
+Which one of these chassis codes are used by BMW 3-series?
+4
+E46
+E39
+E85
+F10
+When was Cadillac founded?
+4
+1902
+1964
+1898
+1985
+What part of an automobile engine uses lobes to open and close intake and exhaust valves, and allows an air/fuel mixture into the engine?
+4
+Camshaft
+Piston
+Drive shaft
+Crankshaft
+Which of the following passenger jets is the longest?
+4
+Boeing 747-8
+Airbus A350-1000
+Airbus A330-200
+Boeing 787-10
+Which car brand does NOT belong to General Motors?
+4
+Ford
+Buick
+Cadillac
+Chevrolet
+How much horsepower is produced by the SD40-2 Locomotive?
+4
+3,000
+3,200
+2,578
+2,190
+Which of the following car models has been badge-engineered (rebadged) the most?
+4
+Isuzu Trooper
+Holden Monaro
+Suzuki Swift
+Chevy Camaro
+Which supercar company is from Sweden?
+4
+Koenigsegg
+Bugatti
+Lamborghini
+McLaren
+In 2014, over 6 million General Motors vehicles were recalled due to what critical flaw?
+4
+Faulty ignition switch
+Malfunctioning gas pedal
+Breaking fuel lines
+Faulty brake pads
+What kind of train was Stepney, a train on the Bluebell Railway notable for his appearance in "The Railway Series"?
+4
+LB&SCR A1X
+LB&SCR E2
+LB&SCR J1
+LB&SCR D1
+Which of the following is NOT a Russian car manufacturer?
+4
+BYD
+Silant
+Dragon
+GAZ
+Which car tire manufacturer is famous for its "P Zero" line?
+4
+Pirelli
+Goodyear
+Bridgestone
+Michelin
+Which one of the following is NOT a sub-company of the Volkswagen Group?
+4
+Opel
+Porsche
+Bugatti
+Bentley
+Ferrari has never made a V10 engine for any of its cars.
+2
+False
+True
+Which country has the international vehicle registration letter 'A'?
+4
+Austria
+Afghanistan
+Australia
+Armenia
+The majority of Subaru vehicles are made in China.
+2
+False
+True
+Complete the following analogy: Audi is to Volkswagen as Infiniti is to ?
+4
+Nissan
+Honda
+Hyundai
+Subaru
+What UK Train does NOT go over 125MPH?
+4
+Sprinter
+Class 43
+Javelin
+Pendolino
+Which Variable Valve Timing technology is used by BMW?
+4
+VANOS
+VVT-iw
+VVEL
+MultiAir
+Which one of the following is not made by Ford?
+4
+Camry
+Fusion
+Model A
+F-150
+Jaguar Cars was previously owned by which car manfacturer?
+4
+Ford
+Chrysler
+General Motors
+Fiat
+Enzo Ferrari was originally an auto racer for what manufacturer before founding his own car company?
+4
+Alfa Romeo
+Auto Union
+Mercedes Benz
+Bentley
+What year did the Chevrolet LUV mini truck make its debut?
+4
+1972
+1982
+1975
+1973
+The Italian automaker Lamborghini uses what animal as its logo?
+4
+Bull
+Bat
+Horse
+Snake
+Volkswagen's legendary VR6 engine has cylinders positioned at what degree angle?
+4
+15 Degree
+30 Degree
+45 Degree
+90 Degree
+Which of these is NOT a car model produced by Malaysian car manufacturer Proton?
+4
+Kelisa
+Saga
+Perdana
+Inspira
+Where are the cars of the brand 'Ferrari' manufactured?
+4
+Italy
+Romania
+Germany
+Russia
+Which Japanese company is the world's largest manufacturer of motorcycles?
+4
+Honda
+Yamaha
+Suzuki
+Kawasaki
+Which Italian city is home of the car manufacturer 'Fiat'?
+4
+Turin
+Maranello
+Modena
+Rome
+Which of these car models are produced by Lamborghini?
+4
+Aventador
+Huayra
+918
+Chiron
+The full English name of the car manufacturer BMW is Bavarian Motor Works
+2
+True
+False
+Automobiles produced by Telsa Motors operate on which form of energy?
+4
+Electricity
+Gasoline
+Diesel
+Nuclear
+Which of the following countries has officially banned the civilian use of dash cams in cars?
+4
+Austria
+United States
+Czechia
+South Korea
+What nickname was given to Air Canada Flight 143 after it ran out of fuel and glided to safety in 1983?
+4
+Gimli Glider
+Gimli Microlight
+Gimli Chaser
+Gimli Superb
+When was Tesla founded?
+4
+2003
+2008
+2005
+2007
+The Chevrolet Corvette has always been made exclusively with V8 engines only.
+2
+False
+True
+What do the 4 Rings in Audi's Logo represent?
+4
+Previously independent automobile manufacturers
+States in which Audi makes the most sales
+Main cities vital to Audi
+Countries in which Audi makes the most sales
+Which of the following vehicles featured a full glass roof at base model?
+4
+Renault Avantime
+Chevy Volt
+Mercedes-Benz A-Class
+Honda Odyssey
+What is the name of Nissan's most popular electric car?
+4
+Leaf
+Tree
+Deer
+Roots
+What country is the Hussarya supercar, made by the car manufacturer "Arrinera", assembled in?
+4
+Poland
+China
+Sweden
+Italy
+When BMW was established in 1916, it was producing automobiles.
+2
+False
+True
+The LS2 engine is how many cubic inches?
+4
+364
+346
+376
+402
