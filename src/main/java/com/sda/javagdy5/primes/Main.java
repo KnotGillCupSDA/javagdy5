@@ -1,4 +1,4 @@
-package com.sda.primes;
+package com.sda.javagdy5.primes;
 
 import java.io.IOException;
 import java.nio.file.Path;
